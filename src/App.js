@@ -1,5 +1,5 @@
 import './App.css';
-// import siReact from 'simple-icons/icons/react';
+import siReact from 'simple-icons/icons/react';
 import Icon, { CssThree, Express, Github, Gmail, Html5, Javascript, Linkedin, Microsoftsqlserver, Mongodb, Nodedotjs, Postgresql, ReactJs, Ruby, Rubyonrails, Sequelize } from '@icons-pack/react-simple-icons';
 import { yellow } from '@material-ui/core/colors';
 import React from 'react';
@@ -77,7 +77,7 @@ function App() {
           <div className='skills-logos'>
           <div><Html5 color='#e34c26' size={70} /><h4>HTML5</h4></div>
           <div><Javascript color='#f0db4f' size={70} /><h4>Javascript <h4 className='es6'>ES6</h4></h4></div>
-          <div><CssThree color='#264de4' size={70} /><h4>CSS3</h4></div>
+          {/* <div><CssThree color='#264de4' size={70} /><h4>CSS3</h4></div> */}
           <div><Ruby color='#cc0000' size={70} /><h4>Ruby</h4></div>
           <div><Rubyonrails color='#CC0000' size={70} /><h4>Ruby On Rails</h4></div>
           <div><ReactJs color='#61DBFB' size={70} /><h4>REACT</h4></div>
