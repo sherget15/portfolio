@@ -1,7 +1,7 @@
 import './App.css';
-import siReact from 'simple-icons/icons/react';
-import Icon, { CssThree, Express, Github, Gmail, Html5, Javascript, Linkedin, Microsoftsqlserver, Mongodb, Nodedotjs, Postgresql, ReactJs, Ruby, Rubyonrails, Sequelize } from '@icons-pack/react-simple-icons';
-import { yellow } from '@material-ui/core/colors';
+// import { SiReact } from '@icons-pack/react-simple-icons';
+// import Icon, { CssThree, Express, Github, Gmail, Html5, Javascript, Linkedin, Microsoftsqlserver, Mongodb, Nodedotjs, Postgresql, ReactJs, Ruby, Rubyonrails, Sequelize } from '@icons-pack/react-simple-icons';
+// import { yellow } from '@material-ui/core/colors';
 import React from 'react';
 import {Link} from 'react-router-dom';
 import { Route } from 'react-router-dom';
@@ -27,19 +27,19 @@ function App() {
           
           <div className='github-header'>
             <a className='github-link' href='https://github.com/sherget15'>
-              <Github className='gh1' color='white' size={45} />
+              {/* <Github className='gh1' color='white' size={45} /> */}
             </a>
           </div>
           
           <div className='linkedin-header'>
             <a className='linkedin-link' href='https://www.linkedin.com/in/stephen-a-herget-50522942/'>
-              <Linkedin className='l1' color='#0e76a8' size={45} />
+              {/* <Linkedin className='l1' color='#0e76a8' size={45} /> */}
             </a>
           </div>
 
           <div className='gmail-header'>
             <a className='gmail-link' href='mailto:herget06@gmail.com'>
-              <Gmail className='g1' color='red' size={45} />
+              {/* <Gmail className='g1' color='red' size={45} /> */}
             </a>
           </div>
 
@@ -75,9 +75,9 @@ function App() {
           </div>
 
           <div className='skills-logos'>
-          <div><Html5 color='#e34c26' size={70} /><h4>HTML5</h4></div>
+          {/* <div><Html5 color='#e34c26' size={70} /><h4>HTML5</h4></div>
           <div><Javascript color='#f0db4f' size={70} /><h4>Javascript <h4 className='es6'>ES6</h4></h4></div>
-          {/* <div><CssThree color='#264de4' size={70} /><h4>CSS3</h4></div> */}
+          <div><CssThree color='#264de4' size={70} /><h4>CSS3</h4></div>
           <div><Ruby color='#cc0000' size={70} /><h4>Ruby</h4></div>
           <div><Rubyonrails color='#CC0000' size={70} /><h4>Ruby On Rails</h4></div>
           <div><ReactJs color='#61DBFB' size={70} /><h4>REACT</h4></div>
@@ -85,7 +85,7 @@ function App() {
           <div><Express color='#000000' size={70} /><h4>Express</h4></div>
           <div><Mongodb color='#47A248' size={70} /><h4>MongoDB</h4></div>
           <div><Microsoftsqlserver color='#CC2927' size={70} /><h4>SQL</h4></div>
-          <div><Postgresql color='#4169E1' size={70} /><h4>PostgreSQL</h4></div>
+          <div><Postgresql color='#4169E1' size={70} /><h4>PostgreSQL</h4></div> */}
           </div>
 
         </div> 
@@ -110,9 +110,9 @@ function App() {
 
           <h1>CONTACT ME</h1>
           <div className='contact-form' id='contact-section'>
-            <div className='github-div'><a className='github-link2' href='https://github.com/sherget15'><Github color='white' size={75} /></a></div>
+            {/* <div className='github-div'><a className='github-link2' href='https://github.com/sherget15'><Github color='white' size={75} /></a></div>
             <div className='linkedin-div'><a className='linkedin-link2' href='https://www.linkedin.com/in/stephen-a-herget-50522942/'><Linkedin color='#0e76a8' size={75} /></a></div>
-            <div className='gmail-div'><a className='gmail-link2' href='mailto:herget06@gmail.com'><Gmail color='red' size={75} /></a></div>
+            <div className='gmail-div'><a className='gmail-link2' href='mailto:herget06@gmail.com'><Gmail color='red' size={75} /></a></div> */}
           </div>
 
         </div>
