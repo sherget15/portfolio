@@ -116,21 +116,21 @@ function App() {
           <div className='contact-form' id='contact-section'>
             <div className='github-div'>
               <a className='github-link2' href='https://github.com/sherget15'>
-                <img className='gh1' src="https://cdn.simpleicons.org/github/white" alt='' />
+                <img className='gh2' src="https://cdn.simpleicons.org/github/white" alt='' />
               </a>
             </div>
             {/* <div className='github-div'><a className='github-link2' src="https://cdn.simpleicons.org/github/white" alt=''><Github color='white' size={75} /></a></div> */}
 
             <div className='linkedin-div'>
               <a className='linkedin-link2' href='https://www.linkedin.com/in/stephen-herget-50522942/'>
-                <img className='l1' src="https://cdn.simpleicons.org/linkedin" alt='' />
+                <img className='l2' src="https://cdn.simpleicons.org/linkedin" alt='' />
               </a>
             </div>
             {/* <div className='linkedin-div'><a className='linkedin-link2' src="https://cdn.simpleicons.org/linkedin" alt=''><Linkedin color='#0e76a8' size={75} /></a></div> */}
 
             <div className='gmail-div'>
               <a className='gmail-link2' href='mailto:herget06@gmail.com'>
-                <img className='g1' src="https://cdn.simpleicons.org/gmail" alt='' />
+                <img className='g2' src="https://cdn.simpleicons.org/gmail" alt='' />
               </a>
             </div>
             {/* <div className='gmail-div'><a className='gmail-link2' src="https://cdn.simpleicons.org/gmail" alt=''><Gmail color='red' size={75} /></a></div> */}

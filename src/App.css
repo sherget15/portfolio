@@ -44,9 +44,9 @@ a {
   margin-right: 100px;
 }
 
-/* .github-header {
+.github-header {
   margin-right: 10px;
-} */
+}
 
 .github-header:hover {
   text-decoration: underline;
@@ -191,6 +191,20 @@ span {
   margin-right: 0px;
 }
 
+.gh2 {
+  height: 150px;
+  width: 150px;
+}
+
+.l2 {
+  height: 150px;
+  width: 150px;
+}
+
+.g2 {
+  height: 150px;
+  width: 150px;
+}
 
 @media all and (max-width: 1600px) {
   .left-header {
@@ -225,21 +239,6 @@ span {
     height: 20vh;
     width: 30vw;
     padding: 10px;
-  }
-
-  .gh1 {
-    height: 30px;
-    width: 30px;
-  }
-
-  .l1 {
-    height: 30px;
-    width: 30px;
-  }
-
-  .g1 {
-    height: 30px;
-    width: 30px;
   }
 }
 
