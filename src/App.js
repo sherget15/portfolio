@@ -79,17 +79,17 @@ function App() {
           </div>
 
           <div className='skills-logos'>
-            {/* <div><Html5 color='#e34c26' size={70} /><h4>HTML5</h4></div>
-          <div><Javascript color='#f0db4f' size={70} /><h4>Javascript <h4 className='es6'>ES6</h4></h4></div>
-          <div><CssThree color='#264de4' size={70} /><h4>CSS3</h4></div>
-          <div><Ruby color='#cc0000' size={70} /><h4>Ruby</h4></div>
-          <div><Rubyonrails color='#CC0000' size={70} /><h4>Ruby On Rails</h4></div>
-          <div><ReactJs color='#61DBFB' size={70} /><h4>REACT</h4></div>
-          <div><Nodedotjs color='#68a063' size={70} /><h4>Node.JS</h4></div>
-          <div><Express color='#000000' size={70} /><h4>Express</h4></div>
-          <div><Mongodb color='#47A248' size={70} /><h4>MongoDB</h4></div>
-          <div><Microsoftsqlserver color='#CC2927' size={70} /><h4>SQL</h4></div>
-          <div><Postgresql color='#4169E1' size={70} /><h4>PostgreSQL</h4></div> */}
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/html5" alt='' /></div>
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/javascript" alt='' /></div>
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/css3" alt='' /></div>
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/ruby" alt='' /></div>
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/rubyonrails" alt='' /></div>
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/react" alt='' /></div>
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/nodedotjs" alt='' /></div>
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/express" alt='' /></div>
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/mongodb" alt='' /></div>
+            {/* <div><img className='skills-size' src="https://cdn.simpleicons.org/sqlite" alt='' /></div> */}
+            <div><img className='skills-size' src="https://cdn.simpleicons.org/postgresql" alt='' /></div>
           </div>
 
         </div>

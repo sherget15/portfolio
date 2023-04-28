@@ -139,10 +139,15 @@ a {
   flex-direction: row;
   align-content: center;
   justify-content: space-evenly;
-  gap: 100px;
+  gap: 120px;
   background-color: rgb(79, 5, 110);
   width: 100vw;
-  border-radius: 20px;
+  margin-bottom: 40px;
+}
+
+.skills-size {
+  height: 100px;
+  width: 100px;
 }
 
 .projects {
@@ -244,9 +249,9 @@ span {
 
 @media all and (max-width: 600px) {
   img {
-    height: 10vh;
-    width: 20vw;
-    padding: 10px;
+    height: 5vh;
+    width: 10vw;
+    padding: 0px;
   }
 }
 
