@@ -1,11 +1,5 @@
 import './App.css';
-// import { GitHub } from '@icons-pack/react-simple-icons';
-// import * as icons from 'simple-icons';
-// import { CssThree, Express, Github, Gmail, Html5, Javascript, Linkedin, Microsoftsqlserver, Mongodb, Nodedotjs, Postgresql, ReactJs, Ruby, Rubyonrails, Sequelize } from '@icons-pack/react-simple-icons';
-// import { yellow } from '@material-ui/core/colors';
 import React from 'react';
-// import { Link } from 'react-router-dom';
-// import { Route } from 'react-router-dom';
 
 function App() {
   return (
@@ -28,21 +22,18 @@ function App() {
           <div className='github-header'>
             <a className='github-link' href='https://github.com/sherget15'>
               <img className='gh1' src="https://cdn.simpleicons.org/github/white" alt='' />
-              {/* <Git className='gh1' color='default' size={45} /> */}
             </a>
           </div>
 
           <div className='linkedin-header'>
             <a className='linkedin-link' href='https://www.linkedin.com/in/stephen-herget-50522942/'>
               <img className='l1' src="https://cdn.simpleicons.org/linkedin" alt='' />
-              {/* <Linkedin className='l1' color='#0e76a8' size={45} /> */}
             </a>
           </div>
 
           <div className='gmail-header'>
             <a className='gmail-link' href='mailto:herget06@gmail.com'>
               <img className='g1' src="https://cdn.simpleicons.org/gmail" alt='' />
-              {/* <Gmail className='g1' color='red' size={45} /> */}
             </a>
           </div>
 
@@ -122,21 +113,18 @@ function App() {
                 <img className='gh2' src="https://cdn.simpleicons.org/github/white" alt='' />
               </a>
             </div>
-            {/* <div className='github-div'><a className='github-link2' src="https://cdn.simpleicons.org/github/white" alt=''><Github color='white' size={75} /></a></div> */}
 
             <div className='linkedin-div'>
               <a className='linkedin-link2' href='https://www.linkedin.com/in/stephen-herget-50522942/'>
                 <img className='l2' src="https://cdn.simpleicons.org/linkedin" alt='' />
               </a>
             </div>
-            {/* <div className='linkedin-div'><a className='linkedin-link2' src="https://cdn.simpleicons.org/linkedin" alt=''><Linkedin color='#0e76a8' size={75} /></a></div> */}
 
             <div className='gmail-div'>
               <a className='gmail-link2' href='mailto:herget06@gmail.com'>
                 <img className='g2' src="https://cdn.simpleicons.org/gmail" alt='' />
               </a>
             </div>
-            {/* <div className='gmail-div'><a className='gmail-link2' src="https://cdn.simpleicons.org/gmail" alt=''><Gmail color='red' size={75} /></a></div> */}
           </div>
 
         </div>
