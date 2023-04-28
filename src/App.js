@@ -1,9 +1,10 @@
 import './App.css';
-// import { SiReact } from '@icons-pack/react-simple-icons';
-// import Icon, { CssThree, Express, Github, Gmail, Html5, Javascript, Linkedin, Microsoftsqlserver, Mongodb, Nodedotjs, Postgresql, ReactJs, Ruby, Rubyonrails, Sequelize } from '@icons-pack/react-simple-icons';
+// import { GitHub } from '@icons-pack/react-simple-icons';
+import * as icons from 'simple-icons';
+// import { CssThree, Express, Github, Gmail, Html5, Javascript, Linkedin, Microsoftsqlserver, Mongodb, Nodedotjs, Postgresql, ReactJs, Ruby, Rubyonrails, Sequelize } from '@icons-pack/react-simple-icons';
 // import { yellow } from '@material-ui/core/colors';
 import React from 'react';
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { Route } from 'react-router-dom';
 
 function App() {
@@ -27,7 +28,8 @@ function App() {
           
           <div className='github-header'>
             <a className='github-link' href='https://github.com/sherget15'>
-              {/* <Github className='gh1' color='white' size={45} /> */}
+              <img className='gh1' height='10' width='10' src="https://cdn.simpleicons.org/github/white" />
+              {/* <Git className='gh1' color='default' size={45} /> */}
             </a>
           </div>
           
