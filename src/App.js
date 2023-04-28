@@ -78,6 +78,10 @@ function App() {
             <br />
           </div>
 
+          {/* link to simple-icons site & site with slugs for logos below 
+          https://github.com/simple-icons/simple-icons/blob/master/slugs.md 
+          https://github.com/simple-icons/simple-icons*/}
+
           <div className='skills-logos'>
             <div><img className='skills-size' src="https://cdn.simpleicons.org/html5" alt='' /></div>
             <div><img className='skills-size' src="https://cdn.simpleicons.org/javascript" alt='' /></div>
