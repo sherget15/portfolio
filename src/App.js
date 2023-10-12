@@ -99,7 +99,7 @@ function App() {
           <a className='p1-link' href='https://sherget15.github.io/Cocktail-Connoisseur/'><img className='p1-img' src='https://i.imgur.com/smBirji.jpg' alt='' ></img></a>
           <a className='p2-link' href='https://p2-zengarden.netlify.app'><img className='p2-img' src='https://i.imgur.com/cwySkeU.jpg' alt='' ></img></a>
           <a className='p3-link' href='https://playlistify4real.netlify.app/'><img className='p3-img' src='https://i.imgur.com/Y7Dr5jD.jpg' alt='' ></img></a>
-          <a className='p4-link' href="file:///Users/stephenherget/Documents/Professional/Projects/space_adventure/index.html"><img className='p4-img' src="file:///Users/stephenherget/Documents/PortfolioFolder/portfolio/Screenshot 2023-10-12 at 11.19.42 AM.jpg" alt='' /></a>
+          <a className='p4-link' href="file:///Users/stephenherget/Documents/Professional/Projects/space_adventure/index.html"><img className='p4-img' src="https://i.imgur.com/usoQeo4.jpg" alt='' /></a>
         </div>
       </section>
 
