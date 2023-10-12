@@ -183,9 +183,9 @@ a {
 }
 
 img {
-  height: 15vh;
-  width: 25vw;
-  padding: 10px;
+  height: 20px;
+  width: 5px;
+  /* padding: 10px; */
 }
 
 h1 {
