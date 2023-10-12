@@ -150,6 +150,8 @@ a {
   width: 100px;
 }
 
+
+
 .projects {
   display: flex;
   align-items: center;
@@ -181,8 +183,8 @@ a {
 }
 
 img {
-  height: 40vh;
-  width: 30vw;
+  height: 15vh;
+  width: 25vw;
   padding: 10px;
 }
 
