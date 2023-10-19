@@ -188,6 +188,11 @@ img {
   padding: 10px;
 }
 
+.p4-img {
+  height: 100px;
+  width: 150;
+}
+
 h1 {
   font-size: 3em;
 }
