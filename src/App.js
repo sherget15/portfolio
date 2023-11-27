@@ -14,7 +14,7 @@ function App() {
           <a href='#skills-section'>Skills</a>
           <a href='#projects-section'>Projects</a>
           <a href='#contact-section'>Contact</a>
-          <a href="https://drive.google.com/file/d/1QOZr1nFjSqMctQ-xaNYRp1UQtFiS88In/view?usp=sharing" download alt=' ' rel='noopener noreferrer' target="_blank">Resume</a>
+          <a href="https://drive.google.com/file/d/11f9mrALraOTgrJS5oUfFpSFNxS91NY8F/view?usp=sharing" download alt=' ' rel='noopener noreferrer' target="_blank">Resume</a>
         </div>
 
         <div className='right-header'>
